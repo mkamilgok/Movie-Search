@@ -9,7 +9,7 @@ html {
 body {
     margin: 0;
     padding: 0;
-    background-color: rgb(244,244,244);
+    background-color:#d0f2e1;
     color: #333;
 }
 
@@ -86,7 +86,7 @@ small {
     border-radius: 10px;
     box-shadow: 1px 1px 5px rgba(0,0,0,0.25);
     margin-bottom: 2rem;
-    background-color: white;
+    background-color: #ffffe8;
 }
 
 .card--title {
